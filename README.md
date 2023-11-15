@@ -12,4 +12,4 @@ This is a GUI based Simulator used to edit , create a new , simulate the MIPS in
 - First download the code from the repository
 - Make sure that the computer has Python installed, if not install Python
 - Download the Tkinter library
-- Go to the Phase-3 folder and run ```App.py``` file
+- Go to the simulator-code folder and run ```App.py``` file
